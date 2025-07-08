@@ -1,0 +1,6 @@
+# Planetary Gear Detection Requirements
+# Computer vision and image processing
+opencv-python>=4.5.0
+
+# Numerical computing
+numpy>=1.19.0
