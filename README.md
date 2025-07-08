@@ -14,6 +14,14 @@ A computer vision application for detecting and counting planetary gears in vide
 - **Template Management**: Automatically saves selected templates with timestamps
 - **Output Video Generation**: Save processed video with detection annotations (optional)
 
+## Demo
+
+Watch the application in action with our demo video:
+
+https://github.com/user-attachments/assets/Demo.mp4
+
+*The demo video shows the planetary gear detection system processing a sample video, highlighting the template selection process, real-time detection capabilities, and the interactive controls for threshold adjustment and frame navigation.*
+
 ## Requirements
 
 - Python 3.x
