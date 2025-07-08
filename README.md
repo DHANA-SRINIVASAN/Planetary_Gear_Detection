@@ -18,7 +18,7 @@ A computer vision application for detecting and counting planetary gears in vide
 
 Watch the application in action with our demo video:
 
-https://github.com/user-attachments/assets/Demo.mp4
+https://github.com/DHANA-SRINIVASAN/Planetary_Gear_Detection/blob/main/Demo.mp4
 
 *The demo video shows the planetary gear detection system processing a sample video, highlighting the template selection process, real-time detection capabilities, and the interactive controls for threshold adjustment and frame navigation.*
 
